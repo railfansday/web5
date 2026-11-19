@@ -72,16 +72,7 @@ STOP_WORDS = {
 
 ADSTERRA_CODE = """
 <div style="text-align:center; margin:20px 0;">
-    <script type="text/javascript">
-        atOptions = {
-            'key' : 'f9e40eb3b3cd05f1038aac7b36b33ad2',
-            'format' : 'iframe',
-            'height' : 90,
-            'width' : 728,
-            'params' : {}
-        };
-    </script>
-    <script type="text/javascript" src="https://upholdbrilliancerecast.com/f9e40eb3b3cd05f1038aac7b36b33ad2/invoke.js"></script>
+
 </div>
 """
 
